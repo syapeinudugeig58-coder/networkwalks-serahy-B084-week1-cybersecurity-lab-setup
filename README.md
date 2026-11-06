@@ -36,7 +36,7 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 | --- | --- | --- |
 | VirtualBox | 7.2.22 | Virtualization / Hypervisor |
 | Kali Linux | 2026.3 | Attacker / Testing VM |
-| Host OS | Windows | Host Machine |
+| Host OS | Windows 11 | Host Machine |
 | Network Mode | NAT / NAT Network - 10.0.0.0/24 | Isolated Lab Network |
 
 ---
@@ -44,8 +44,8 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 ## ⚙️ Lab Setup Steps
 
 ### 1. Install VirtualBox
-- Downloaded and installed **VirtualBox 7.2.22** on host machine
-- Verified Virtualization (VT-x) is enabled in BIOS
+- Downloaded and installed **VirtualBox 7.2.22** on host machine (Windows 11)
+- Verified Virtualization (VT-x) is enabled in BIOS for HP Laptop
 
 ### 2. Install Kali Linux
 - Downloaded **Kali Linux 2026.3** VM / ISO
