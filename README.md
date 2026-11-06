@@ -68,7 +68,9 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 ## 📸 Screenshots - Lab Evidence
 
 ### 1. VirtualBox Main Screen
-![VirtualBox](1-screenshot-InstallingVirtualBox-image.png)
+## 🛠️ Step 1 - Install VirtualBox
+
+![Install VirtualBox](install-virtualbox.png)
 
 ### 2. VirtualBox Network Settings
 ![Network Settings](2-screenshot-network-settings-1.png)
