@@ -59,7 +59,7 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 
 ### 4. Verify Lab
 - Ran `ip a` inside Kali to check IP address
-- Ran `ping 8.8.8.8` to test connectivity
+- Ran `ping 10.0.0.1` to test connectivity
 - Ran `ping google.com` to test DNS
 - Kali boots and network works successfully
 
