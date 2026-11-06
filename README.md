@@ -77,7 +77,7 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 ![Installing Kali Linux](./installing%20Kali%20linux.png)
 
 ### 4. Kali Network Settings Verification
-![Kali Network Settings](4-screenshot-kali-network-settings.png)
+![Select NAT Network in Kali Linux](./select%20NAT%20Network%20in%20Kali%20Linux.png)
 
 ---
 
