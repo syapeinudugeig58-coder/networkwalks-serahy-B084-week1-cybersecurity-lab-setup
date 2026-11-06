@@ -11,7 +11,6 @@
 ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-B084-yellow)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-orange)
 ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-blue)
-![Waqas Karim](https://img.shields.io/badge/Waqas Karim-green)
 ---
 
 ## 📌 Project Overview
