@@ -84,7 +84,7 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 ## 💡 What I Learned
 
 - How to set up an isolated virtual lab safely
-- How VirtualBox networking (NAT / NAT Network) works
+- How VirtualBox networking (NAT Network) works
 - How to install and configure Kali Linux 2026.3
 - How to verify IP, network, and connectivity in Linux
 - Importance of isolation - never test on real networks
