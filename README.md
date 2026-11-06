@@ -37,7 +37,7 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 | VirtualBox | 7.2.22 | Virtualization / Hypervisor |
 | Kali Linux | 2026.3 | Attacker / Testing VM |
 | Host OS | Windows 11 | Host Machine |
-| Network Mode | NAT / NAT Network - 10.0.0.0/24 | Isolated Lab Network |
+| Network Mode |NAT Network - 10.0.0.0/24 | Isolated Lab Network |
 
 ---
 
