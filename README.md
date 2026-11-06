@@ -71,7 +71,7 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 ![Install VirtualBox](./install%20virtualbox.png)
 
 ### 2. VirtualBox Network Settings
-![Network Settings](2-screenshot-network-settings-1.png)
+![NAT Network set up for VirtualBox](./NAT%20Network%20set%20up%20for%20VirtualBox.png)
 
 ### 3. Kali Linux Desktop
 ![Kali Linux](3-screenshot-kali-linux.png)
