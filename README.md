@@ -10,8 +10,8 @@
 ![Penetration Testing](https://img.shields.io/badge/Practice-Penetration_Testing-red)
 ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-B084-yellow)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-orange)
-![Waqas Karim CCIE](https://img.shields.io/badge/Waqas_KarimCCIE-orange)
 ![Github Ripo](https://img.shields.io/badge/Github_Ripo-orange)
+![Waqas Karim CCIE](https://img.shields.io/badge/Waqas_KarimCCIE-orange)
 ---
 
 ## 📌 Project Overview
@@ -51,11 +51,11 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 
 ### 2. Install Kali Linux
 - Downloaded **Kali Linux 2026.3** VM / ISO
-- Created new VM in VirtualBox with 4GB RAM, 2 CPU, 40GB Disk
+- Created new VM in VirtualBox with 2048MB RAM, 2 CPU, 40GB Disk
 - Completed Kali installation and login
 
 ### 3. Configure Network Settings
-- Set Network Adapter to **NAT** for isolated internet access
+- Set Network Adapter to **NAT Network** for isolated internet access
 - Verified Kali gets IP in **10.0.0.0/24** range
 - Confirmed host and VM are isolated from real network
 
@@ -106,8 +106,8 @@ If VirtualBox shows **VT-x is not available** error:
 - [x] VirtualBox 7.2.22 installed
 - [x] Kali Linux 2026.3 installed and boots
 - [x] Network configured and isolated
-- [x] `ip a` shows correct IP
-- [x] Internet / ping works inside Kali
+- [x] `ip a` shows correct IP  
+- [x] Internet / ping google.com inside Kali
 
 ---
 
