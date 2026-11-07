@@ -94,8 +94,8 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 ## ⚠️ Problem 2. VirtualBox VT-x / Virtualization Error
 
 If VirtualBox shows **VT-x is not available** error:
-1. Restart computer and enter BIOS (F2 / Del)
-2. Enable **Intel VT-x / AMD-V** under Virtualization
+1. Restart computer and enter BIOS (F10 / Esc) like tap tap tap
+2. Enable **Intel VT-x / AMD-V** under system configuration under Virtualization
 3. Enable **VT-d** if available
 4. Save and restart, then start Kali VM again
 
