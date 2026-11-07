@@ -10,6 +10,8 @@
 ![Penetration Testing](https://img.shields.io/badge/Practice-Penetration_Testing-red)
 ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-B084-yellow)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-orange)
+![Waqas Karim CCIE](https://img.shields.io/badge/Waqas_KarimCCIE-orange)
+![Github Ripo](https://img.shields.io/badge/Github_Ripo-orange)
 ---
 
 ## 📌 Project Overview
