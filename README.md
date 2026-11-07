@@ -56,7 +56,7 @@ This project documents the setup of an **isolated cybersecurity lab** using Virt
 
 ### 3. Configure Network Settings
 - Set Network Adapter to **NAT Network** for isolated internet access
-- Verified Kali gets IP in **10.0.0.0/24** range
+- Verified Kali gets IP in **10.0.0.2/24** range
 - Confirmed host and VM are isolated from real network
 
 ### 4. Verify Lab
